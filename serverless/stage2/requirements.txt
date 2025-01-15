@@ -1,0 +1,10 @@
+ffmpeg
+ffmpeg-python
+torch
+torchvision
+boto3
+opencv-python-headless
+numpy
+imutils
+Pillow
+facenet-pytorch
